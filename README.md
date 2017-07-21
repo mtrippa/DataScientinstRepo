@@ -1,1 +1,1 @@
-# DataScientinstRepo
+# DataScientistRepo
